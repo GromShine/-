@@ -2,95 +2,93 @@
 
 ![image-20260314091949451](hadoopimg/image-20260314091949451.png)
 
-![image-20260314091949451](hadoopimg\image-20260314091949451.png)
+![image-20260314092027322](hadoopimg/image-20260314092027322.png)
 
-![image-20260314092027322](hadoopimg\image-20260314092027322.png)
+![image-20260314092114400](hadoopimg/image-20260314092114400.png)
 
-![image-20260314092114400](hadoopimg\image-20260314092114400.png)
+![image-20260314092256398](hadoopimg/image-20260314092256398.png)
 
-![image-20260314092256398](hadoopimg\image-20260314092256398.png)
+![image-20260314092420795](hadoopimg/image-20260314092420795.png)
 
-![image-20260314092420795](hadoopimg\image-20260314092420795.png)
+![image-20260314092521810](hadoopimg/image-20260314092949581.png)
 
-![image-20260314092521810](hadoopimg\image-20260314092949581.png)
+![image-20260314092631606](hadoopimg/image-20260314092631606.png)
 
-![image-20260314092631606](hadoopimg\image-20260314092631606.png)
+![image-20260314092702306](hadoopimg/image-20260314092702306.png)
 
-![image-20260314092702306](hadoopimg\image-20260314092702306.png)
+![image-20260314092742088](hadoopimg/image-20260314092742088.png)
 
-![image-20260314092742088](hadoopimg\image-20260314092742088.png)
+![image-20260314092814563](hadoopimg/image-20260314092814563.png)
 
-![image-20260314092814563](hadoopimg\image-20260314092814563.png)
+![image-20260314092911099](hadoopimg/image-20260314092911099.png)
 
-![image-20260314092911099](hadoopimg\image-20260314092911099.png)
+![image-20260314092949581](hadoopimg/image-20260314092521810.png)
 
-![image-20260314092949581](hadoopimg\image-20260314092521810.png)
-
-##### 配置完虚拟机以后就可以开机,安装系统![image-20260314093036487](hadoopimg\image-20260314093036487.png)
+##### 配置完虚拟机以后就可以开机,安装系统![image-20260314093036487](hadoopimg/image-20260314093036487.png)
 
 ##### 鼠标点击虚拟机安装界面,进入到虚拟机,否则无法操作虚拟机,想要让鼠标从虚拟机出来,按键盘的ctrl+Alt组合键
 
-![image-20260314093819411](C:\Users\admin\Desktop\hadoopimg\image-20260314093819411.png)
+![image-20260314093819411](C:\Users\admin\Desktop\hadoopimg/image-20260314093819411.png)
 
-![image-20260314093955922](hadoopimg\image-20260314093955922.png)
+![image-20260314093955922](hadoopimg/image-20260314093955922.png)
 
 1. 选择DATE & TIME 修改时区
 
-   ![image-20260314094315802](hadoopimg\image-20260314094315802.png)
+   ![image-20260314094315802](hadoopimg/image-20260314094315802.png)
 
 鼠标点击地图绿色位置,就会选择shanghai,然后点击Done
 
 2. 找到INSTALLATION DESTINATION
 
-![image-20260314094625465](C:\Users\admin\Desktop\hadoopimg\image-20260314094625465.png)
+![image-20260314094625465](C:\Users\admin\Desktop\hadoopimg/image-20260314094625465.png)
 
-![image-20260314094815866](hadoopimg\image-20260314094815866.png)
+![image-20260314094815866](hadoopimg/image-20260314094815866.png)
 
-![image-20260314094902820](hadoopimg\image-20260314094902820.png)
+![image-20260314094902820](hadoopimg/image-20260314094902820.png)
 
-![image-20260314094957274](hadoopimg\image-20260314094957274.png)
+![image-20260314094957274](hadoopimg/image-20260314094957274.png)
 
-![image-20260314095034556](hadoopimg\image-20260314095034556.png)
+![image-20260314095034556](hadoopimg/image-20260314095034556.png)
 
 3. 点击 NETWORK & HOST NAME
 
-   ![image-20260314095534902](hadoopimg\image-20260314095534902.png)
+   ![image-20260314095534902](hadoopimg/image-20260314095534902.png)
 
-![image-20260314100857502](hadoopimg\image-20260314100857502.png)
+![image-20260314100857502](hadoopimg/image-20260314100857502.png)
 
-![image-20260314105730993](hadoopimg\image-20260314105730993.png)
+![image-20260314105730993](hadoopimg/image-20260314105730993.png)
 
-![image-20260314105847660](hadoopimg\image-20260314105847660.png)
+![image-20260314105847660](hadoopimg/image-20260314105847660.png)
 
-![image-20260314110047066](hadoopimg\image-20260314110047066.png)
+![image-20260314110047066](hadoopimg/image-20260314110047066.png)
 
 等待安装结束
 
-![image-20260314110818897](hadoopimg\image-20260314110818897.png)
+![image-20260314110818897](hadoopimg/image-20260314110818897.png)
 
-![image-20260314111035739](hadoopimg\image-20260314111035739.png)
+![image-20260314111035739](hadoopimg/image-20260314111035739.png)
 
 输入用户名:root,回车
 
-![image-20260314111130232](C:\Users\admin\Desktop\hadoopimg\image-20260314111130232.png)
+![image-20260314111130232](C:\Users\admin\Desktop\hadoopimg/image-20260314111130232.png)
 
 然后再输入密码,注意,在这里输入密码,密码是不显示的,输入完密码后,回车,会进入系统
 
-![image-20260314111250942](hadoopimg\image-20260314111250942.png)
+![image-20260314111250942](hadoopimg/image-20260314111250942.png)
 
 如果出现如上信息,说明成功登录进了系统.接下来,就可以使用ssh客户端连接linux系统了
 
-![image-20260314111506805](hadoopimg\image-20260314111506805.png)
+![image-20260314111506805](hadoopimg/image-20260314111506805.png)
 
-![image-20260314111609311](hadoopimg\image-20260314111609311.png)
+![image-20260314111609311](hadoopimg/image-20260314111609311.png)
 
 点击SSH后,会出现ssh的配置信息
 
-![image-20260314111825207](hadoopimg\image-20260314111825207.png)
+![image-20260314111825207](hadoopimg/image-20260314111825207.png)
 
-![image-20260314112202825](hadoopimg\image-20260314112202825.png)
+![image-20260314112202825](hadoopimg/image-20260314112202825.png)
 
-![image-20260314112448747](hadoopimg\image-20260314112448747.png)
+![image-20260314112448747](hadoopimg/image-20260314112448747.png)
 
 ##### centos7 已经停止维护,需要先更换安装源
 
@@ -130,7 +128,7 @@ yum update
 >
 > hadoop  ALL=(ALL)       NOPASSWD: ALL 
 
-![image-20260314115610166](hadoopimg\image-20260314115610166.png)
+![image-20260314115610166](hadoopimg/image-20260314115610166.png)
 
 #### 创建目录 用来存放软件,并把该文件夹设置为hadoop所有
 
@@ -140,13 +138,13 @@ yum update
 
 退出ssh客户端,更换hadoop用户登录系统
 
-![image-20260314120343712](hadoopimg\image-20260314120343712.png)
+![image-20260314120343712](hadoopimg/image-20260314120343712.png)
 
-![image-20260314120425591](hadoopimg\image-20260314120425591.png)
+![image-20260314120425591](hadoopimg/image-20260314120425591.png)
 
 把需要用到的软件全部选中后,拖到左侧的目录中
 
-![image-20260314120913283](hadoopimg\image-20260314120913283.png)
+![image-20260314120913283](hadoopimg/image-20260314120913283.png)
 
 上传文件，并解压缩
 
@@ -187,11 +185,11 @@ Anaconda3 will now be installed into this location:
  [no] >>> yes
 ```
 
-![image-20260314123001816](hadoopimg\image-20260314123001816.png)
+![image-20260314123001816](hadoopimg/image-20260314123001816.png)
 
 最终/opt/work目录是这个样子
 
-![image-20260314124052515](hadoopimg\image-20260314124052515.png)
+![image-20260314124052515](hadoopimg/image-20260314124052515.png)
 
 配置python
 
@@ -367,49 +365,49 @@ sudo vi /etc/hosts
 192.168.88.130 node3
 ```
 
-![image-20260314133656503](hadoopimg\image-20260314133656503.png)
+![image-20260314133656503](hadoopimg/image-20260314133656503.png)
 
 
 
 运行sudo shutdown -h 0 命令,关机,开始克隆虚拟机
 
-![image-20260314125248994](hadoopimg\image-20260314125248994.png)
+![image-20260314125248994](hadoopimg/image-20260314125248994.png)
 
-![image-20260314125404994](hadoopimg\image-20260314125404994.png)
+![image-20260314125404994](hadoopimg/image-20260314125404994.png)
 
-![image-20260314125445368](hadoopimg\image-20260314125445368.png)
+![image-20260314125445368](hadoopimg/image-20260314125445368.png)
 
-![image-20260314125541327](hadoopimg\image-20260314125541327.png)
+![image-20260314125541327](hadoopimg/image-20260314125541327.png)
 
 克隆完毕后,注意:不要启动其他虚拟机,只选择刚刚克隆的node2启动,启动结束后,在虚拟机里输入root用户名及密码
 
 然后输入命令: nmtui 来设置ip地址,以及主机名
 
-![image-20260314130244873](hadoopimg\image-20260314130244873.png)
+![image-20260314130244873](hadoopimg/image-20260314130244873.png)
 
 选择Edit a connection 后回车
 
-![image-20260314130426740](hadoopimg\image-20260314130426740.png)
+![image-20260314130426740](hadoopimg/image-20260314130426740.png)
 
 选择网卡后,回车
 
-![image-20260314130540186](hadoopimg\image-20260314130540186.png)
+![image-20260314130540186](hadoopimg/image-20260314130540186.png)
 
 输入一个不同的ip地址
 
-![image-20260314131007729](hadoopimg\image-20260314131007729.png)
+![image-20260314131007729](hadoopimg/image-20260314131007729.png)
 
 返回
 
-![image-20260314131107179](hadoopimg\image-20260314131107179.png)
+![image-20260314131107179](hadoopimg/image-20260314131107179.png)
 
 设置主机名
 
 
 
-![image-20260314131209597](hadoopimg\image-20260314131209597.png)
+![image-20260314131209597](hadoopimg/image-20260314131209597.png)
 
-![image-20260314131324237](hadoopimg\image-20260314131324237.png)
+![image-20260314131324237](hadoopimg/image-20260314131324237.png)
 
 配置完后,输入命令,重启网络,让配置生效
 
@@ -417,11 +415,11 @@ sudo vi /etc/hosts
 
 再选择node1(必须是关机状态),同理再克隆node3
 
-![image-20260314131723427](hadoopimg\image-20260314131723427.png)
+![image-20260314131723427](hadoopimg/image-20260314131723427.png)
 
 克隆完毕后,把node3启动起来,然后,在虚拟机中使用root登录,同理也要输入nmtui重新设置ip,以及主机名
 
-![image-20260314132142236](hadoopimg\image-20260314132142236.png)
+![image-20260314132142236](hadoopimg/image-20260314132142236.png)
 
 配置完后,输入命令,重启网络,让配置生效
 
@@ -429,13 +427,13 @@ sudo vi /etc/hosts
 
 这时候,再把node1启动起来,至此,我们就有了3台虚拟机启动起来了,再用ssh客户端依此连接新的服务器,注意:需要用hadoop用户登录
 
-![image-20260314132544505](hadoopimg\image-20260314132544505.png)
+![image-20260314132544505](hadoopimg/image-20260314132544505.png)
 
 #### 创建密钥对 在node1,node2,node3分别执行如下命令:
 
 > ssh-keygen -t rsa
 
-![image-20260314133048090](hadoopimg\image-20260314133048090.png)
+![image-20260314133048090](hadoopimg/image-20260314133048090.png)
 
 一路回车就可以把密钥对创建出来
 
@@ -451,7 +449,7 @@ sudo vi /etc/hosts
 
 > hdfs namenode -format
 
-![image-20260314135155577](hadoopimg\image-20260314135155577.png)
+![image-20260314135155577](hadoopimg/image-20260314135155577.png)
 
 ### 启动hadoop命令如下,也可以跳过,使用启动脚本启动(更方便直观)
 
@@ -541,11 +539,11 @@ chmod +x ~/jpsall.sh
 
 > ~/jpsall.sh
 
-![image-20260314135723366](C:\Users\admin\Desktop\hadoopimg\image-20260314135723366.png)
+![image-20260314135723366](C:\Users\admin\Desktop\hadoopimg/image-20260314135723366.png)
 
 通过http://192.168.88.128:9870/ 可以访问hadoop
 
-![image-20260314140429435](hadoopimg\image-20260314140429435.png)
+![image-20260314140429435](hadoopimg/image-20260314140429435.png)
 
 #### 配置SparkOnYARN
 
@@ -639,30 +637,30 @@ spark-submit \
 
 pyCharm创建一个简单的项目
 
-![image-20260129160506906](hadoopimg\image-20260129160506906.png)
+![image-20260129160506906](hadoopimg/image-20260129160506906.png)
 
-![image-20260129162734491](hadoopimg\image-20260129162734491.png)
+![image-20260129162734491](hadoopimg/image-20260129162734491.png)
 
-![image-20260129153630484](hadoopimg\image-20260129153630484.png)
+![image-20260129153630484](hadoopimg/image-20260129153630484.png)
 
 
 
-![image-20260129153556985](hadoopimg\image-20260129153556985.png)
+![image-20260129153556985](hadoopimg/image-20260129153556985.png)
 
-![image-20260129153920414](hadoopimg\image-20260129153920414.png)
+![image-20260129153920414](hadoopimg/image-20260129153920414.png)
 
-![image-20260129154210361](hadoopimg\image-20260129154210361.png)
+![image-20260129154210361](hadoopimg/image-20260129154210361.png)
 
-![image-20260129154329580](hadoopimg\image-20260129154329580.png)
+![image-20260129154329580](hadoopimg/image-20260129154329580.png)
 
 ```shell
 # 在Linux上创建用于存放代码的目录：
 mkdir -p /home/hadoop/pyspark_code
 ```
 
-![image-20260129162004929](hadoopimg\image-20260129162004929.png)
+![image-20260129162004929](hadoopimg/image-20260129162004929.png)
 
-![image-20260129161904189](hadoopimg\image-20260129161904189.png)
+![image-20260129161904189](hadoopimg/image-20260129161904189.png)
 
 #### 注意：如果pycharm 连接远程服务器出现failed to prepare the environment.
 
