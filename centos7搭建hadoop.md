@@ -1,5 +1,7 @@
 #### 创建虚拟机
 
+![image-20260314091949451](hadoopimg/image-20260314091949451.png)
+
 ![image-20260314091949451](hadoopimg\image-20260314091949451.png)
 
 ![image-20260314092027322](hadoopimg\image-20260314092027322.png)
